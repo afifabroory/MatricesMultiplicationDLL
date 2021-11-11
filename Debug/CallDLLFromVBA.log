@@ -1,0 +1,5 @@
+﻿  CallDLLFromVBA.cpp
+  LINK : C:\Users\Afifa\Documents\KULIAH\Aplikom\CallDLLFromVBA\Debug\CallDLLFromVBA.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Afifa\Documents\KULIAH\Aplikom\CallDLLFromVBA\Debug\CallDLLFromVBA.lib and object C:\Users\Afifa\Documents\KULIAH\Aplikom\CallDLLFromVBA\Debug\CallDLLFromVBA.exp
+CallDLLFromVBA.exp : warning LNK4070: /OUT:MatricesMultiplication.dll directive in .EXP differs from output filename 'C:\Users\Afifa\Documents\KULIAH\Aplikom\CallDLLFromVBA\Debug\CallDLLFromVBA.dll'; ignoring directive
+  CallDLLFromVBA.vcxproj -> C:\Users\Afifa\Documents\KULIAH\Aplikom\CallDLLFromVBA\Debug\CallDLLFromVBA.dll

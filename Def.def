@@ -1,0 +1,4 @@
+LIBRARY "MatricesMultiplication"
+
+EXPORTS
+Matrices=Matrices
